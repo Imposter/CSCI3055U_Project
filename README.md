@@ -224,7 +224,7 @@ x`
 
 ### Programming constructs / Standard library
 
-> Scala has multiple STL functional programming constructs that are useful in coding practice. The first is Immutability; this keeps a variable static and you cannot change the value of the variable further in the code. Currying is another function that takes in multiple parameters and it returns a new function with only a single parameter. Pattern Matching is used to find keywords within a string. The keyword is passed into Patter Matching as an argument and Pattern Matching returns if the pattern exists. Higher order functions are unique, as they take other normal functions in as parameters, or they return other normal functions. Lastly, Lazy programming is quite useful for shortening the length of your code and making it much more appealing and organized.
+> Scala has multiple STL functional programming constructs that are useful in coding practice. The first is Immutability; this keeps a variable static and you cannot change the value of the variable further in the code. Currying is another function that takes in multiple parameters and it returns a new function with only a single parameter. Pattern Matching is used to find keywords within a string. The keyword is passed into Pattern Matching as an argument and Pattern Matching returns if the pattern exists. Higher order functions are unique, as they take other normal functions in as parameters, or they return other normal functions. Lastly, Lazy programming is quite useful for shortening the length of your code and making it much more appealing and organized.
 
 ### Static vs Dynamic
 
